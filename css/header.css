@@ -1,0 +1,35 @@
+header h1{
+    text-align: center;
+}
+
+
+header p{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.menu-nav {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.menu-nav ul {
+    list-style: none;
+}
+  
+.menu-nav li {
+    border-bottom: 3px solid transparent;
+    display: inline-block;
+    margin: 0px 10px;
+    padding: 10px;
+
+}
+  
+.menu-nav a {
+    text-decoration: none;
+}
+  
+  .menu-nav li:hover {
+    border-bottom: 3px solid orange;
+}

@@ -1,0 +1,32 @@
+.second-section h2{
+    margin-bottom: 20px;
+}
+
+.copy-button {
+    display: flex;
+    justify-content: center;
+}
+
+#copy-button {
+    margin-top: 1px;
+    padding: 5px;
+}
+
+.container-info{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.container-info span{
+    font-size: 13px;
+}
+
+.container-info ul{
+    list-style-type: none;
+}
+
+.container-info li{
+    font-size: 12px;
+    margin-left: 10px;
+}
